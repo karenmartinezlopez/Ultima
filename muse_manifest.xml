@@ -1,0 +1,46 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="4253176681" ref="mas:historia:index:datos"/>
+    <file name="mas.css" crc="17863556" ref="mas"/>
+    <file name="iefonts_mas.css" crc="348475929" ref="mas"/>
+    <file name="historia.css" crc="3870512207" ref="historia"/>
+    <file name="index.css" crc="419720601" ref="index"/>
+    <file name="datos.css" crc="436848772" ref="datos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:historia:datos:mas"/>
+    <file name="museutils.js" crc="4291592202" ref="index:historia:datos:mas"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:historia:datos:mas"/>
+    <file name="pie.js" crc="3827607177" ref="index:historia"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:historia:datos:mas"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:historia:datos:mas"/>
+    <file name="webpro.js" crc="3903299128" ref="datos"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="datos"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="datos"/>
+    <file name="touchswipe.js" crc="4156838003" ref="datos"/>
+  </folder>
+  <folder name="images">
+    <file name="u828-full.png" crc="4022403837" ref="index:historia:datos:mas"/>
+    <file name="descarga.jpg" crc="254323016" ref="index:historia:datos:mas"/>
+    <file name="u1127-full.png" crc="4275035913" ref="index:historia:datos:mas"/>
+    <file name="tlatlauqui 007.jpg" crc="4189109499" ref="index"/>
+    <file name="u315-4.png" crc="440036417" ref="historia"/>
+    <file name="tlatlauqui6.jpg" crc="4004518123" ref="historia"/>
+    <file name="u424-4.png" crc="4106157995" ref="datos"/>
+    <file name="pueblos-magicos-tlatlauquitepec-puebla-ex-convento-ago13.jpg" crc="4253187617" ref="datos"/>
+    <file name="blank.gif" crc="4208392903" ref="datos"/>
+    <file name="pueblos-magicos-tlatlauquitepec-puebla-iglesia-asuncion-interior-ago13.jpg" crc="4039871563" ref="datos"/>
+    <file name="loading.gif" crc="3815509949" ref="datos"/>
+    <file name="37551857.jpg" crc="4104977325" ref="datos"/>
+    <file name="festejo04_0.jpg" crc="346881655" ref="datos"/>
+    <file name="1.png" crc="4223077652" ref="mas"/>
+    <file name="2.png" crc="3851117246" ref="mas"/>
+    <file name="3.png" crc="4283425244" ref="mas"/>
+    <file name="tlatlauquitepec.png" crc="318264547" ref="mas"/>
+  </folder>
+  <file name="index.html" crc="4225783252" mt="1401995595144" redirect="true"/>
+  <file name="historia.html" crc="4134062339" mt="1401995595150" redirect="true"/>
+  <file name="datos.html" crc="491148607" mt="1401995595155" redirect="true"/>
+  <file name="mas.html" crc="4199027626" mt="1401995595159" redirect="true"/>
+</manifest>
